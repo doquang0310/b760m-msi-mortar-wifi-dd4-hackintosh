@@ -38,14 +38,14 @@
 
 ### ScreenShot
 
-- Geekbench5 Score i5-13400F
+- Geekbench6 Score i5-13400F
 
 ![image](ScreenShot/CPU.png)
 
-- Geekbench5 Score Metal AMD Radeon™ RX 6800 XTPhantom Gaming 16GB OC
+- Geekbench6 Score Metal AMD Radeon™ RX 6800 XTPhantom Gaming 16GB OC
 
 ![image](ScreenShot/Metal.png)
 
-- Geekbench5 Score OpenCL AMD Radeon™ RX 6800 XTPhantom Gaming 16GB OC
+- Geekbench6 Score OpenCL AMD Radeon™ RX 6800 XTPhantom Gaming 16GB OC
 
 ![image](ScreenShot/OpenCL.png)
