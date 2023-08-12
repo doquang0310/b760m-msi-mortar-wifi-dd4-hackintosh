@@ -38,7 +38,7 @@
 
 ### ScreenShot
 
-- Geekbench5 Score i5-13400
+- Geekbench5 Score i5-13400F
 
 ![image](ScreenShot/CPU.png)
 
