@@ -44,7 +44,7 @@
 - Execute Disable Bit
 - EHCI/XHCI Hand-off
 - OS type: Other OS
-- DVMT Pre-Allocated(iGPU Memory): 64MB hoặc cao hơn
+- DVMT Pre-Allocated(iGPU Memory): 64MB or higher
 - SATA Mode: AHCI
 
 ### Notes
